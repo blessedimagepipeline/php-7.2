@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/oryx/php:7.2-20191004.5
+FROM mcr.microsoft.com/oryx/php:7.2-20191018.1
 LABEL maintainer="Azure App Services Container Images <appsvc-images@microsoft.com>"
 
 ENV PHP_VERSION 7.2
